@@ -2,7 +2,7 @@
 
 This project uses HuggingFace’s [BLIP model](https://huggingface.co/Salesforce/blip-image-captioning-base) to generate captions for images.  
 It provides a simple **Gradio interface** where users can upload an image and instantly get an AI-generated caption.
-link - http://127.0.0.1:7861/
+
 ---
 
 🚀 Features
