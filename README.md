@@ -12,6 +12,12 @@ link - http://127.0.0.1:7861/
 - Easy to run locally.
 
 ---
+ Tech Stack
+- Python
+- HuggingFace Transformers
+- PyTorch
+- Gradio
+- Pillow (PIL)
 
 📦 Installation
 Clone the repo and install dependencies:
